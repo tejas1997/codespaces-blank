@@ -8,8 +8,7 @@ class Add {
     }
 }
 
-class Calc extends Add { // Car is a subclass of Vehicle
-   
+class Calc extends Add { 
 
     public static void main(String[] args) {
     int c,d,sum1;
